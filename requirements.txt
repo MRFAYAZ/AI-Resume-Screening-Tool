@@ -1,0 +1,15 @@
+
+---
+
+## ✅ `requirements.txt`
+
+```txt
+streamlit
+pandas
+scikit-learn
+spacy
+PyPDF2
+python-docx
+
+#Plus download the language model for spaCy
+python -m spacy download en_core_web_sm
